@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume ",    
+    "status": "indisponível",
+    "desc": "212 vip",
+    "categ": "cosmeticos",
+    "value": "400.00",
+    "image": "https://cdn.awsli.com.br/2500x2500/764/764220/produto/1760993431b2758f576.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tenis",    
+    "status": "disponivel",
+    "desc": "Nike Dunk Low Setsubun",
+    "categ": "acessorio",
+    "value": "7300.00",
+    "image": "https://media.karousell.com/media/photos/products/2023/2/18/nike_dunk_low_setsubun_1676732401_476e0009_progressive.jpg"
+  },
+  {
+    "id": 3,
+    "name": "shape",
+    "status": "disponivel",
+    "desc": "shape meple Santa Cruz",
+    "categ": "objeto",
+    "value": "350.00",
+    "image": "https://cdn.vnda.com.br/1200x/mundiskateshop/2023/07/13/20_17_21_646_20_7_2_202_d_nq_np_2x_786390mlb69569740779_052023f.png?v=1689290241"
+  },
+  {
+    "id": 4,
+    "name": "Iphone",
+    "status": "disponivel",
+    "desc": "iphone 15 pro Max 1TB",
+    "categ": "objeto",
+    "value": "16000.00",
+    "image": "https://i.zst.com.br/thumbs/12/a/13/-1114650735.jpg"
+  },
+  {
+    "id": 5,
+    "name": "camiseta",
+    "status": "indisponível",
+    "desc": "camiseta Palmeiras 2024/25",
+    "categ": "acessorio",
+    "value": "400.00",
+    "image": "https://verdebrancomania.com.br/wp-content/uploads/2024/01/086020550-3-e1706378159400.jpg"
+  }
+]
